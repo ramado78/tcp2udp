@@ -12,6 +12,7 @@ Dependencias: packit socat (aptitude install packit socat)
 Version: Version inicial 0.1 Beta 10 de Enero de 2011
 Comentarios: Testeado en entorno Debian 5.0
 Autor: Roberto Amado, S2 Grupo
+http://www.securityartwork.es/2011/02/25/tcp2udp-firewall-bypassing/
 *****************************************************************************
 
 Configuración
